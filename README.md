@@ -1,15 +1,15 @@
-# Word-count problem with Hadoop MapReduce
-# INPUT
-• Type input : Text 
+• Word-count problem with Hadoop MapReduce
+• INPUT
+º Type input : Text 
 
-• Path : input.txt
+º Path : input.txt
 
-• Description : A paragraph, any text
-# OUTPUT
-• Type output : Text
+º Description : A paragraph, any text
+• OUTPUT
+º Type output : Text
 
-• Path : output/
+º Path : output/
 
-• Description : [word] [frequency of occurrence]
-# Run project
+º Description : [word] [frequency of occurrence]
+• Run project
 To run the project, find Class WordCount.java and run the program.
